@@ -11,7 +11,7 @@ class MockData {
       priceTotal: 98.0,
       nights: 2,
       rating: 4.94,
-      imageUrl: "https://a0.muscache.com/im/pictures/example1.jpg",
+      imageUrl: "lib/assets/images/muneco.jpg",
       label: "Recomendación del viajero",
     ),
     Accommodation(
@@ -22,7 +22,7 @@ class MockData {
       priceTotal: 180.0,
       nights: 3,
       rating: 4.87,
-      imageUrl: "https://a0.muscache.com/im/pictures/example2.jpg",
+      imageUrl: "lib/assets/images/muneco.jpg",
       label: "Cerca de atracciones populares",
     ),
     Accommodation(
@@ -33,7 +33,8 @@ class MockData {
       priceTotal: 400.0,
       nights: 5,
       rating: 4.91,
-      imageUrl: "https://a0.muscache.com/im/pictures/example3.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Ideal para familias",
     ),
     Accommodation(
@@ -44,7 +45,8 @@ class MockData {
       priceTotal: 270.0,
       nights: 3,
       rating: 4.98,
-      imageUrl: "https://a0.muscache.com/im/pictures/example4.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Vistas al mar",
     ),
   ];
@@ -58,7 +60,8 @@ class MockData {
       priceTotal: 850.0,
       nights: 5,
       rating: 4.96,
-      imageUrl: "https://a0.muscache.com/im/pictures/example-marbella1.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Frente a la playa",
     ),
     Accommodation(
@@ -69,7 +72,8 @@ class MockData {
       priceTotal: 1450.0,
       nights: 5,
       rating: 4.99,
-      imageUrl: "https://a0.muscache.com/im/pictures/example-marbella2.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Lujo y privacidad",
     ),
   ];
@@ -83,7 +87,8 @@ class MockData {
       priceTotal: 390.0,
       nights: 3,
       rating: 4.89,
-      imageUrl: "https://a0.muscache.com/im/pictures/example-bcn1.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Cerca del Museo Picasso",
     ),
     Accommodation(
@@ -94,7 +99,8 @@ class MockData {
       priceTotal: 540.0,
       nights: 3,
       rating: 4.95,
-      imageUrl: "https://a0.muscache.com/im/pictures/example-bcn2.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Vistas espectaculares",
     ),
     Accommodation(
@@ -105,7 +111,8 @@ class MockData {
       priceTotal: 310.0,
       nights: 3,
       rating: 4.82,
-      imageUrl: "https://a0.muscache.com/im/pictures/example-bcn3.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Encanto histórico",
     ),
     Accommodation(
@@ -116,7 +123,8 @@ class MockData {
       priceTotal: 480.0,
       nights: 3,
       rating: 4.90,
-      imageUrl: "https://a0.muscache.com/im/pictures/example-bcn4.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Perfecto para verano",
     ),
     Accommodation(
@@ -127,7 +135,8 @@ class MockData {
       priceTotal: 180.0,
       nights: 2,
       rating: 4.77,
-      imageUrl: "https://a0.muscache.com/im/pictures/example-bcn5.jpg",
+      imageUrl:
+          "https://www.shutterstock.com/es/image-photo/modern-home-living-room-interior-luxurious-2497127165",
       label: "Barrio con encanto",
     ),
   ];
