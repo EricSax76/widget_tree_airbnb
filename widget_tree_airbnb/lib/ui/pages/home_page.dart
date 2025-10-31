@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:widget_tree_airbnb/utils/mock_data.dart';
-import 'package:widget_tree_airbnb/widgets/section.dart';
+import 'package:widget_tree_airbnb/ui/utils/mock_data.dart';
+import 'package:widget_tree_airbnb/ui/widgets/section.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

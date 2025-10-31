@@ -1,5 +1,5 @@
-import 'package:widget_tree_airbnb/class/accommodation.dart';
-import 'package:widget_tree_airbnb/class/section.dart';
+import 'package:widget_tree_airbnb/ui/pages/class/accommodation.dart';
+import 'package:widget_tree_airbnb/ui/pages/class/section.dart';
 
 class MockData {
   static final List<Accommodation> alojamientosMadrid = [

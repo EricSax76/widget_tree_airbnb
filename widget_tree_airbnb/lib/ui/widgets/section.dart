@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:widget_tree_airbnb/class/accommodation.dart';
-import 'package:widget_tree_airbnb/widgets/apartment.dart';
+import 'package:widget_tree_airbnb/ui/pages/class/accommodation.dart';
+import 'package:widget_tree_airbnb/ui/widgets/apartment.dart';
 
 class Section extends StatefulWidget {
   final List<Accommodation> alojamientos;
@@ -20,7 +20,10 @@ class _SectionState extends State<Section> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Padding(padding: const EdgeInsets.only(left: 10), child: Text(widget.title)),
+        Padding(
+          padding: const EdgeInsets.only(left: 10),
+          child: Text(widget.title),
+        ),
         SizedBox(
           height: 300,
           child: ListView.builder(

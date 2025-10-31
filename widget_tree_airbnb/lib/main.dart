@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_tree_airbnb/home_page.dart';
+import 'package:widget_tree_airbnb/ui/pages/home_page.dart';
 
 void main() {
   runApp(const MainApp());

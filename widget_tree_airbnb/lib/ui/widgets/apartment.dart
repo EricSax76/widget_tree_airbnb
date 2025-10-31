@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_tree_airbnb/class/accommodation.dart';
+import 'package:widget_tree_airbnb/ui/pages/class/accommodation.dart';
 
 class Apartment extends StatelessWidget {
   final Accommodation alojamiento;

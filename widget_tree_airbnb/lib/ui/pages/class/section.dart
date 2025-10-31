@@ -1,4 +1,4 @@
-import 'package:widget_tree_airbnb/class/accommodation.dart';
+import 'package:widget_tree_airbnb/ui/pages/class/accommodation.dart';
 
 class SectionModel {
   final String title;
